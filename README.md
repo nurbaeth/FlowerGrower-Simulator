@@ -15,7 +15,7 @@ A fully on-chain flower growing game built with Solidity. Plant, water, and grow
   - `Bud` 
   - `Bloom`  
 - 🔒 **Ownership Check:** Only the owner can water their flower.   
-- ⚙️ **Admin Controls:** Owner can adjust growth speed and watering cooldown.
+- ⚙️ **Admin Controls:** Owner can adjust growth speed and watering cooldown.  
 
 ---
 
