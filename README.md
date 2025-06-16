@@ -22,7 +22,7 @@ A fully on-chain flower growing game built with Solidity. Plant, water, and grow
 ## 🧱 Smart Contract  
 Written in Solidity `^0.8.20` and using OpenZeppelin standards:  
 - `ERC721URIStorage`
-- `Ownable`
+- `Ownable`  
 - `Counters`
 
 ---
