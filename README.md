@@ -18,7 +18,7 @@ A fully on-chain flower growing game built with Solidity. Plant, water, and grow
 - ⚙️ **Admin Controls:** Owner can adjust growth speed and watering cooldown.  
   
 ---  
-
+  
 ## 🧱 Smart Contract
 Written in Solidity `^0.8.20` and using OpenZeppelin standards:
 - `ERC721URIStorage`
