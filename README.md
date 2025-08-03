@@ -5,7 +5,7 @@ A fully on-chain flower growing game built with Solidity. Plant, water, and grow
 ---    
      
 ## ✨ Features  
-     
+      
 - 🪴 **Plant Flowers:** Players can plant seeds to mint new NFTs.    
 - 💧 **Watering Logic:** Water your flower every day to support its growth.     
 - ⏳ **Time-Based Progression:** Flowers evolve through stages depending on time and care.  
