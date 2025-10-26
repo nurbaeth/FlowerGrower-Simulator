@@ -11,7 +11,7 @@ A fully on-chain flower growing game built with Solidity. Plant, water, and grow
 - ⏳ **Time-Based Progression:** Flowers evolve through stages depending on time and care.     
 - 🌼 **Stages of Growth:**   
   - `Seed`      
-  - `Sprout`   
+  - `Sprout`    
   - `Bud`  
   - `Bloom`   
 - 🔒 **Ownership Check:** Only the owner can water their flower.    
