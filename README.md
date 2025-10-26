@@ -1,5 +1,5 @@
 # 🌸 FlowerGrower Simulator             
-            
+             
 A fully on-chain flower growing game built with Solidity. Plant, water, and grow your NFT flower as it progresses through life stages — from Seed to Bloom.     
           
 ---       
